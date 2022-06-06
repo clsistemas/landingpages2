@@ -107,15 +107,15 @@ header{
 }
 
 .padre{
-	padding: 500px 2000px 0px 0px;
-	height: 100%;
+	padding: 500px 800px 0px 0px;
+	
 	display: flex;
 	
 }
 
 .hijo{
-	width: 1000px;
-	height: 200px;
+	width: 800px;
+	height: 0px;
 	border-radius: 30px;
 	text-align: left;
 	font-size: 30px;
